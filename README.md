@@ -8,3 +8,5 @@ My solutions for the [Python Morsels](https://www.pythonmorsels.com/) by Trey Hu
 
 ## Exercises
 
+* [point](point/)
+
