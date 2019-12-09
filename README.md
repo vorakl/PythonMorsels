@@ -2,11 +2,11 @@
 
 My solutions for the [Python Morsels](https://www.pythonmorsels.com/) by Trey Hunner. 
 
-## Free Samples
+## Free Sample
 
 * [add](add/)
 
 ## Exercises
 
-* [point](point/)
+* [Point](point/)
 
