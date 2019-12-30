@@ -11,4 +11,4 @@ My solutions for the [Python Morsels](https://www.pythonmorsels.com/) by Trey Hu
 * [Point](point/)
 * [get_earliest](get_earliest/)
 * [count_words](count_words/)
-
+* [deep_flatten](deep_flatten/)
