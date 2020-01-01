@@ -12,3 +12,4 @@ My solutions for the [Python Morsels](https://www.pythonmorsels.com/) by Trey Hu
 * [get_earliest](get_earliest/)
 * [count_words](count_words/)
 * [deep_flatten](deep_flatten/)
+* [parse_ranges](parse_ranges/)
