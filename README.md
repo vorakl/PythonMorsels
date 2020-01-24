@@ -14,3 +14,4 @@ My solutions for the [Python Morsels](https://www.pythonmorsels.com/) by Trey Hu
 * [deep_flatten](deep_flatten/)
 * [parse_ranges](parse_ranges/)
 * [OrderedSet](orderedset/)
+* [ini2csv](ini2csv/)
