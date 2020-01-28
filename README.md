@@ -15,3 +15,4 @@ My solutions for the [Python Morsels](https://www.pythonmorsels.com/) by Trey Hu
 * [parse_ranges](parse_ranges/)
 * [OrderedSet](orderedset/)
 * [ini2csv](ini2csv/)
+* [float_range](float_range/)
