@@ -16,3 +16,5 @@ My solutions for the [Python Morsels](https://www.pythonmorsels.com/) by Trey Hu
 * [OrderedSet](orderedset/)
 * [ini2csv](ini2csv/)
 * [float_range](float_range/)
+* [suppress](suppress/)
+* [window](window/)
