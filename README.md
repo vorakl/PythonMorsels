@@ -1,4 +1,4 @@
-# Python Morsels
+# My Python Morsels Solutions
 
 My solutions for the [Python Morsels](https://www.pythonmorsels.com/) by Trey Hunner. 
 
